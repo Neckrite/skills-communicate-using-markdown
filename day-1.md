@@ -1,10 +1,12 @@
 # Daily Learning
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ## Morning Planning
 
 - [x] Create a branch for the blog
 - [x] Add a task list to track my goals
-- [ ] Learn how to write a code example in Markdown
+- [x] Learn how to write a code example in Markdown
 
 ## Review
 
